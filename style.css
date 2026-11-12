@@ -1,0 +1,54 @@
+/* External CSS */
+/* h1{
+    color: aqua;
+    background-color: black;
+    font-size: 50px;
+} */
+
+/* h1 { */
+/* Named Color */
+/* color: red; */
+
+/* Hexadecimal */
+/* color: #ff0000;
+    color: #00ff00;
+    color: #0000ff; */
+
+/* RGB - Red Green Blue */
+/* color: rgb(255,0,0);
+    color: rgb(0,255,0);
+    color: rgb(8, 65, 3); */
+
+/* RGBA - Red Green Blue Alpha */
+/* color: rgba(34,12,78,0.5); */
+
+/* HSL - Hue Saturation Lightness */
+/* color: hsl(136, 81%, 48%); */
+
+/* HSLA - Hue Saturation Lightness Alpha */
+/* color: hsla(227, 45%, 45%, 0.737); */
+/* } */
+
+/* Background Color */
+/* h1{
+    background-color: rgb(100, 5, 109);
+} */
+
+/* Universal Selector */
+/* *{
+    background-color: red;
+    font-size: 20px;
+    font-family:'Courier New', Courier, monospace;
+} */
+
+/* ID Selector */
+/* #id{
+    color: aqua;
+    font-size: 50px;
+} */
+
+/* Class Selector */
+/* .class{
+    color: blue;
+    font-size: 20px;
+} */
